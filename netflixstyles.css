@@ -11,9 +11,10 @@
 body {
 	font-family: 'Arial' , sans-serif;
 	--webkit-font-smoothing: antialiased;
-	background: #fff;
-	color: #000;
+	background: #000;
+	color: #fff;
 	text-align: center;
+
 }
 
 ul {
@@ -25,11 +26,11 @@ h1{
 }
 
 h1, h2, h3, h4 {
-	color: #000;
+	color: #fff;
 }
 
 a{
-	color: #000;
+	color: #fff;
 	text-decoration: none;
 }
 
